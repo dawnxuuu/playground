@@ -1,0 +1,3195 @@
+[
+	{
+		"name": "鞍山",
+		"url": "//jobs.zhaopin.com/anshan/",
+		"code": "601",
+		"pinyin": "anshan"
+	},
+	{
+		"name": "安顺",
+		"url": "//jobs.zhaopin.com/anshun/",
+		"code": "825",
+		"pinyin": "anshun"
+	},
+	{
+		"name": "安阳",
+		"url": "//jobs.zhaopin.com/anyang/",
+		"code": "723",
+		"pinyin": "anyang"
+	},
+	{
+		"name": "安康",
+		"url": "//jobs.zhaopin.com/ankang/",
+		"code": "862",
+		"pinyin": "ankang"
+	},
+	{
+		"name": "安庆",
+		"url": "//jobs.zhaopin.com/anqing/",
+		"code": "671",
+		"pinyin": "anqing"
+	},
+	{
+		"name": "阿坝",
+		"url": "//jobs.zhaopin.com/aba/",
+		"code": "819",
+		"pinyin": "aba"
+	},
+	{
+		"name": "阿克苏",
+		"url": "//jobs.zhaopin.com/akesu/",
+		"code": "897",
+		"pinyin": "akesu"
+	},
+	{
+		"name": "阿拉尔",
+		"url": "//jobs.zhaopin.com/alaer/",
+		"code": "10176",
+		"pinyin": "alaer"
+	},
+	{
+		"name": "阿拉善盟",
+		"url": "//jobs.zhaopin.com/alashanmeng/",
+		"code": "598",
+		"pinyin": "alashanmeng"
+	},
+	{
+		"name": "阿勒泰",
+		"url": "//jobs.zhaopin.com/aletai/",
+		"code": "903",
+		"pinyin": "aletai"
+	},
+	{
+		"name": "阿里",
+		"url": "//jobs.zhaopin.com/ali/",
+		"code": "852",
+		"pinyin": "ali"
+	},
+	{
+		"name": "安达",
+		"url": "//jobs.zhaopin.com/anda/",
+		"code": "10081",
+		"pinyin": "anda"
+	},
+	{
+		"name": "澳门",
+		"url": "//jobs.zhaopin.com/aomen/",
+		"code": "562",
+		"pinyin": "aomen"
+	},
+	{
+		"name": "阿尔及利亚",
+		"url": "//jobs.zhaopin.com/aerjiliya/",
+		"code": "918",
+		"pinyin": "aerjiliya"
+	},
+	{
+		"name": "阿根廷",
+		"url": "//jobs.zhaopin.com/agenting/",
+		"code": "481",
+		"pinyin": "agenting"
+	},
+	{
+		"name": "阿联酋",
+		"url": "//jobs.zhaopin.com/alianqiu/",
+		"code": "526",
+		"pinyin": "alianqiu"
+	},
+	{
+		"name": "埃及",
+		"url": "//jobs.zhaopin.com/aiji/",
+		"code": "493",
+		"pinyin": "aiji"
+	},
+	{
+		"name": "爱尔兰",
+		"url": "//jobs.zhaopin.com/aierlan/",
+		"code": "502",
+		"pinyin": "aierlan"
+	},
+	{
+		"name": "安哥拉",
+		"url": "//jobs.zhaopin.com/angela/",
+		"code": "913",
+		"pinyin": "angela"
+	},
+	{
+		"name": "奥地利",
+		"url": "//jobs.zhaopin.com/aodili/",
+		"code": "483",
+		"pinyin": "aodili"
+	},
+	{
+		"name": "澳大利亚",
+		"url": "//jobs.zhaopin.com/aodaliya/",
+		"code": "482",
+		"pinyin": "aodaliya"
+	},
+	{
+		"name": "北京",
+		"url": "//jobs.zhaopin.com/beijing/",
+		"code": "530",
+		"pinyin": "beijing",
+		"priority": 1
+	},
+	{
+		"name": "包头",
+		"url": "//jobs.zhaopin.com/baotou/",
+		"code": "588",
+		"pinyin": "baotou"
+	},
+	{
+		"name": "宝鸡",
+		"url": "//jobs.zhaopin.com/baoji/",
+		"code": "856",
+		"pinyin": "baoji"
+	},
+	{
+		"name": "保定",
+		"url": "//jobs.zhaopin.com/baoding/",
+		"code": "570",
+		"pinyin": "baoding"
+	},
+	{
+		"name": "滨州",
+		"url": "//jobs.zhaopin.com/binzhou/",
+		"code": "717",
+		"pinyin": "binzhou"
+	},
+	{
+		"name": "亳州",
+		"url": "//jobs.zhaopin.com/bozhou/",
+		"code": "678",
+		"pinyin": "bozhou"
+	},
+	{
+		"name": "蚌埠",
+		"url": "//jobs.zhaopin.com/bangbu/",
+		"code": "666",
+		"pinyin": "bangbu"
+	},
+	{
+		"name": "北海",
+		"url": "//jobs.zhaopin.com/beihai/",
+		"code": "789",
+		"pinyin": "beihai"
+	},
+	{
+		"name": "白银",
+		"url": "//jobs.zhaopin.com/baiyin/",
+		"code": "867",
+		"pinyin": "baiyin"
+	},
+	{
+		"name": "白城",
+		"url": "//jobs.zhaopin.com/baicheng/",
+		"code": "620",
+		"pinyin": "baicheng"
+	},
+	{
+		"name": "白山",
+		"url": "//jobs.zhaopin.com/baishan/",
+		"code": "618",
+		"pinyin": "baishan"
+	},
+	{
+		"name": "毕节",
+		"url": "//jobs.zhaopin.com/bijie/",
+		"code": "828",
+		"pinyin": "bijie"
+	},
+	{
+		"name": "巴中",
+		"url": "//jobs.zhaopin.com/bazhong/",
+		"code": "817",
+		"pinyin": "bazhong"
+	},
+	{
+		"name": "巴彦淖尔",
+		"url": "//jobs.zhaopin.com/bayannaoer/",
+		"code": "597",
+		"pinyin": "bayannaoer"
+	},
+	{
+		"name": "巴音郭楞",
+		"url": "//jobs.zhaopin.com/bayinguoleng/",
+		"code": "896",
+		"pinyin": "bayinguoleng"
+	},
+	{
+		"name": "白沙",
+		"url": "//jobs.zhaopin.com/baisha/",
+		"code": "10194",
+		"pinyin": "baisha"
+	},
+	{
+		"name": "百色",
+		"url": "//jobs.zhaopin.com/baise/",
+		"code": "794",
+		"pinyin": "baise"
+	},
+	{
+		"name": "保山",
+		"url": "//jobs.zhaopin.com/baoshan/",
+		"code": "834",
+		"pinyin": "baoshan"
+	},
+	{
+		"name": "保亭",
+		"url": "//jobs.zhaopin.com/baoting/",
+		"code": "10193",
+		"pinyin": "baoting"
+	},
+	{
+		"name": "本溪",
+		"url": "//jobs.zhaopin.com/benxi/",
+		"code": "603",
+		"pinyin": "benxi"
+	},
+	{
+		"name": "博尔塔拉",
+		"url": "//jobs.zhaopin.com/boertala/",
+		"code": "895",
+		"pinyin": "boertala"
+	},
+	{
+		"name": "北屯区",
+		"url": "//jobs.zhaopin.com/beitunqu/",
+		"code": "932",
+		"pinyin": "beitunqu"
+	},
+	{
+		"name": "巴基斯坦",
+		"url": "//jobs.zhaopin.com/bajisitan/",
+		"code": "513",
+		"pinyin": "bajisitan"
+	},
+	{
+		"name": "巴西",
+		"url": "//jobs.zhaopin.com/baxi/",
+		"code": "486",
+		"pinyin": "baxi"
+	},
+	{
+		"name": "白俄罗斯",
+		"url": "//jobs.zhaopin.com/baieluosi/",
+		"code": "484",
+		"pinyin": "baieluosi"
+	},
+	{
+		"name": "保加利亚",
+		"url": "//jobs.zhaopin.com/baojialiya/",
+		"code": "487",
+		"pinyin": "baojialiya"
+	},
+	{
+		"name": "比利时",
+		"url": "//jobs.zhaopin.com/bilishi/",
+		"code": "485",
+		"pinyin": "bilishi"
+	},
+	{
+		"name": "冰岛",
+		"url": "//jobs.zhaopin.com/bingdao/",
+		"code": "499",
+		"pinyin": "bingdao"
+	},
+	{
+		"name": "波兰",
+		"url": "//jobs.zhaopin.com/bolan/",
+		"code": "514",
+		"pinyin": "bolan"
+	},
+	{
+		"name": "重庆",
+		"url": "//jobs.zhaopin.com/zhongqing/",
+		"code": "551",
+		"pinyin": "zhongqing"
+	},
+	{
+		"name": "成都",
+		"url": "//jobs.zhaopin.com/chengdu/",
+		"code": "801",
+		"pinyin": "chengdu",
+		"priority": 1
+	},
+	{
+		"name": "长春",
+		"url": "//jobs.zhaopin.com/changchun/",
+		"code": "613",
+		"pinyin": "changchun"
+	},
+	{
+		"name": "长株潭",
+		"url": "//jobs.zhaopin.com/changzhutan/",
+		"code": "749",
+		"pinyin": "changzhutan"
+	},
+	{
+		"name": "长沙",
+		"url": "//jobs.zhaopin.com/changsha/",
+		"code": "749",
+		"pinyin": "changsha"
+	},
+	{
+		"name": "沧州",
+		"url": "//jobs.zhaopin.com/cangzhou/",
+		"code": "573",
+		"pinyin": "cangzhou"
+	},
+	{
+		"name": "常熟",
+		"url": "//jobs.zhaopin.com/changshu/",
+		"code": "650",
+		"pinyin": "changshu"
+	},
+	{
+		"name": "常德",
+		"url": "//jobs.zhaopin.com/changde/",
+		"code": "755",
+		"pinyin": "changde"
+	},
+	{
+		"name": "常州",
+		"url": "//jobs.zhaopin.com/changzhou/",
+		"code": "638",
+		"pinyin": "changzhou"
+	},
+	{
+		"name": "滁州",
+		"url": "//jobs.zhaopin.com/chuzhou/",
+		"code": "673",
+		"pinyin": "chuzhou"
+	},
+	{
+		"name": "承德",
+		"url": "//jobs.zhaopin.com/chengde/",
+		"code": "572",
+		"pinyin": "chengde"
+	},
+	{
+		"name": "郴州",
+		"url": "//jobs.zhaopin.com/chenzhou/",
+		"code": "758",
+		"pinyin": "chenzhou"
+	},
+	{
+		"name": "潮州",
+		"url": "//jobs.zhaopin.com/chaozhou/",
+		"code": "781",
+		"pinyin": "chaozhou"
+	},
+	{
+		"name": "长治",
+		"url": "//jobs.zhaopin.com/changzhi/",
+		"code": "579",
+		"pinyin": "changzhi"
+	},
+	{
+		"name": "赤峰",
+		"url": "//jobs.zhaopin.com/chifeng/",
+		"code": "590",
+		"pinyin": "chifeng"
+	},
+	{
+		"name": "池州",
+		"url": "//jobs.zhaopin.com/chizhou/",
+		"code": "679",
+		"pinyin": "chizhou"
+	},
+	{
+		"name": "昌都",
+		"url": "//jobs.zhaopin.com/changdu/",
+		"code": "848",
+		"pinyin": "changdu"
+	},
+	{
+		"name": "昌吉",
+		"url": "//jobs.zhaopin.com/changji/",
+		"code": "894",
+		"pinyin": "changji"
+	},
+	{
+		"name": "昌江",
+		"url": "//jobs.zhaopin.com/changjiang/",
+		"code": "10195",
+		"pinyin": "changjiang"
+	},
+	{
+		"name": "昌图",
+		"url": "//jobs.zhaopin.com/changtu/",
+		"code": "10080",
+		"pinyin": "changtu"
+	},
+	{
+		"name": "长葛",
+		"url": "//jobs.zhaopin.com/changge/",
+		"code": "10137",
+		"pinyin": "changge"
+	},
+	{
+		"name": "巢湖",
+		"url": "//jobs.zhaopin.com/chaohu/",
+		"code": "676",
+		"pinyin": "chaohu"
+	},
+	{
+		"name": "朝阳",
+		"url": "//jobs.zhaopin.com/zhaoyang/",
+		"code": "611",
+		"pinyin": "zhaoyang"
+	},
+	{
+		"name": "城阳",
+		"url": "//jobs.zhaopin.com/chengyang/",
+		"code": "2159",
+		"pinyin": "chengyang"
+	},
+	{
+		"name": "澄迈",
+		"url": "//jobs.zhaopin.com/chengmai/",
+		"code": "10190",
+		"pinyin": "chengmai"
+	},
+	{
+		"name": "崇左",
+		"url": "//jobs.zhaopin.com/chongzuo/",
+		"code": "905",
+		"pinyin": "chongzuo"
+	},
+	{
+		"name": "楚雄",
+		"url": "//jobs.zhaopin.com/chuxiong/",
+		"code": "836",
+		"pinyin": "chuxiong"
+	},
+	{
+		"name": "慈溪",
+		"url": "//jobs.zhaopin.com/cixi/",
+		"code": "10086",
+		"pinyin": "cixi"
+	},
+	{
+		"name": "大连",
+		"url": "//jobs.zhaopin.com/dalian/",
+		"code": "600",
+		"pinyin": "dalian"
+	},
+	{
+		"name": "东莞",
+		"url": "//jobs.zhaopin.com/dongguan/",
+		"code": "779",
+		"pinyin": "dongguan"
+	},
+	{
+		"name": "大庆",
+		"url": "//jobs.zhaopin.com/daqing/",
+		"code": "627",
+		"pinyin": "daqing"
+	},
+	{
+		"name": "丹东",
+		"url": "//jobs.zhaopin.com/dandong/",
+		"code": "604",
+		"pinyin": "dandong"
+	},
+	{
+		"name": "德阳",
+		"url": "//jobs.zhaopin.com/deyang/",
+		"code": "805",
+		"pinyin": "deyang"
+	},
+	{
+		"name": "德州",
+		"url": "//jobs.zhaopin.com/dezhou/",
+		"code": "715",
+		"pinyin": "dezhou"
+	},
+	{
+		"name": "东营",
+		"url": "//jobs.zhaopin.com/dongying/",
+		"code": "706",
+		"pinyin": "dongying"
+	},
+	{
+		"name": "大同",
+		"url": "//jobs.zhaopin.com/datong/",
+		"code": "577",
+		"pinyin": "datong"
+	},
+	{
+		"name": "大理",
+		"url": "//jobs.zhaopin.com/dali/",
+		"code": "841",
+		"pinyin": "dali"
+	},
+	{
+		"name": "达州",
+		"url": "//jobs.zhaopin.com/dazhou/",
+		"code": "815",
+		"pinyin": "dazhou"
+	},
+	{
+		"name": "大兴安岭",
+		"url": "//jobs.zhaopin.com/daxinganling/",
+		"code": "634",
+		"pinyin": "daxinganling"
+	},
+	{
+		"name": "丹阳",
+		"url": "//jobs.zhaopin.com/danyang/",
+		"code": "10114",
+		"pinyin": "danyang"
+	},
+	{
+		"name": "儋州",
+		"url": "//jobs.zhaopin.com/danzhou/",
+		"code": "10183",
+		"pinyin": "danzhou"
+	},
+	{
+		"name": "德宏",
+		"url": "//jobs.zhaopin.com/dehong/",
+		"code": "842",
+		"pinyin": "dehong"
+	},
+	{
+		"name": "德清",
+		"url": "//jobs.zhaopin.com/deqing/",
+		"code": "10151",
+		"pinyin": "deqing"
+	},
+	{
+		"name": "迪庆",
+		"url": "//jobs.zhaopin.com/diqing/",
+		"code": "845",
+		"pinyin": "diqing"
+	},
+	{
+		"name": "定安",
+		"url": "//jobs.zhaopin.com/dingan/",
+		"code": "10188",
+		"pinyin": "dingan"
+	},
+	{
+		"name": "定西",
+		"url": "//jobs.zhaopin.com/dingxi/",
+		"code": "874",
+		"pinyin": "dingxi"
+	},
+	{
+		"name": "东方",
+		"url": "//jobs.zhaopin.com/dongfang/",
+		"code": "10187",
+		"pinyin": "dongfang"
+	},
+	{
+		"name": "东阳",
+		"url": "//jobs.zhaopin.com/dongyang/",
+		"code": "10056",
+		"pinyin": "dongyang"
+	},
+	{
+		"name": "东港",
+		"url": "//jobs.zhaopin.com/donggang/",
+		"code": "931",
+		"pinyin": "donggang"
+	},
+	{
+		"name": "丹麦",
+		"url": "//jobs.zhaopin.com/danmai/",
+		"code": "492",
+		"pinyin": "danmai"
+	},
+	{
+		"name": "德国",
+		"url": "//jobs.zhaopin.com/deguo/",
+		"code": "496",
+		"pinyin": "deguo"
+	},
+	{
+		"name": "鄂尔多斯",
+		"url": "//jobs.zhaopin.com/eerduosi/",
+		"code": "592",
+		"pinyin": "eerduosi"
+	},
+	{
+		"name": "鄂州",
+		"url": "//jobs.zhaopin.com/ezhou/",
+		"code": "741",
+		"pinyin": "ezhou"
+	},
+	{
+		"name": "恩施",
+		"url": "//jobs.zhaopin.com/enshi/",
+		"code": "748",
+		"pinyin": "enshi"
+	},
+	{
+		"name": "峨眉",
+		"url": "//jobs.zhaopin.com/emei/",
+		"code": "10065",
+		"pinyin": "emei"
+	},
+	{
+		"name": "俄罗斯联邦",
+		"url": "//jobs.zhaopin.com/eluosilianbang/",
+		"code": "516",
+		"pinyin": "eluosilianbang"
+	},
+	{
+		"name": "佛山",
+		"url": "//jobs.zhaopin.com/foshan/",
+		"code": "768",
+		"pinyin": "foshan"
+	},
+	{
+		"name": "福州",
+		"url": "//jobs.zhaopin.com/fuzhou/",
+		"code": "681",
+		"pinyin": "fuzhou"
+	},
+	{
+		"name": "抚顺",
+		"url": "//jobs.zhaopin.com/fushun/",
+		"code": "602",
+		"pinyin": "fushun"
+	},
+	{
+		"name": "阜阳",
+		"url": "//jobs.zhaopin.com/fuyang/",
+		"code": "674",
+		"pinyin": "fuyang"
+	},
+	{
+		"name": "抚州",
+		"url": "//jobs.zhaopin.com/fuzhou/",
+		"code": "700",
+		"pinyin": "fuzhou"
+	},
+	{
+		"name": "方家山",
+		"url": "//jobs.zhaopin.com/fangjiashan/",
+		"code": "10158",
+		"pinyin": "fangjiashan"
+	},
+	{
+		"name": "防城港",
+		"url": "//jobs.zhaopin.com/fangchenggang/",
+		"code": "790",
+		"pinyin": "fangchenggang"
+	},
+	{
+		"name": "肥城",
+		"url": "//jobs.zhaopin.com/feicheng/",
+		"code": "10099",
+		"pinyin": "feicheng"
+	},
+	{
+		"name": "凤阳",
+		"url": "//jobs.zhaopin.com/fengyang/",
+		"code": "10069",
+		"pinyin": "fengyang"
+	},
+	{
+		"name": "福安",
+		"url": "//jobs.zhaopin.com/fuan/",
+		"code": "10020",
+		"pinyin": "fuan"
+	},
+	{
+		"name": "阜新",
+		"url": "//jobs.zhaopin.com/fuxin/",
+		"code": "607",
+		"pinyin": "fuxin"
+	},
+	{
+		"name": "法国",
+		"url": "//jobs.zhaopin.com/faguo/",
+		"code": "495",
+		"pinyin": "faguo"
+	},
+	{
+		"name": "芬兰",
+		"url": "//jobs.zhaopin.com/fenlan/",
+		"code": "494",
+		"pinyin": "fenlan"
+	},
+	{
+		"name": "广州",
+		"url": "//jobs.zhaopin.com/guangzhou/",
+		"code": "763",
+		"pinyin": "guangzhou",
+		"priority": 1
+	},
+	{
+		"name": "赣州",
+		"url": "//jobs.zhaopin.com/ganzhou/",
+		"code": "697",
+		"pinyin": "ganzhou"
+	},
+	{
+		"name": "广西",
+		"url": "//jobs.zhaopin.com/guangxi/",
+		"code": "549",
+		"pinyin": "guangxi"
+	},
+	{
+		"name": "贵阳",
+		"url": "//jobs.zhaopin.com/guiyang/",
+		"code": "822",
+		"pinyin": "guiyang"
+	},
+	{
+		"name": "甘肃",
+		"url": "//jobs.zhaopin.com/gansu/",
+		"code": "557",
+		"pinyin": "gansu"
+	},
+	{
+		"name": "桂林",
+		"url": "//jobs.zhaopin.com/guilin/",
+		"code": "787",
+		"pinyin": "guilin"
+	},
+	{
+		"name": "广元",
+		"url": "//jobs.zhaopin.com/guangyuan/",
+		"code": "807",
+		"pinyin": "guangyuan"
+	},
+	{
+		"name": "广安",
+		"url": "//jobs.zhaopin.com/guangan/",
+		"code": "814",
+		"pinyin": "guangan"
+	},
+	{
+		"name": "甘南",
+		"url": "//jobs.zhaopin.com/gannan/",
+		"code": "877",
+		"pinyin": "gannan"
+	},
+	{
+		"name": "甘孜",
+		"url": "//jobs.zhaopin.com/ganzi/",
+		"code": "820",
+		"pinyin": "ganzi"
+	},
+	{
+		"name": "高邮",
+		"url": "//jobs.zhaopin.com/gaoyou/",
+		"code": "10126",
+		"pinyin": "gaoyou"
+	},
+	{
+		"name": "公安",
+		"url": "//jobs.zhaopin.com/gongan/",
+		"code": "10057",
+		"pinyin": "gongan"
+	},
+	{
+		"name": "公主岭",
+		"url": "//jobs.zhaopin.com/gongzhuling/",
+		"code": "10122",
+		"pinyin": "gongzhuling"
+	},
+	{
+		"name": "固安",
+		"url": "//jobs.zhaopin.com/guan/",
+		"code": "10142",
+		"pinyin": "guan"
+	},
+	{
+		"name": "固原",
+		"url": "//jobs.zhaopin.com/guyuan/",
+		"code": "889",
+		"pinyin": "guyuan"
+	},
+	{
+		"name": "广德",
+		"url": "//jobs.zhaopin.com/guangde/",
+		"code": "10181",
+		"pinyin": "guangde"
+	},
+	{
+		"name": "贵港",
+		"url": "//jobs.zhaopin.com/guigang/",
+		"code": "792",
+		"pinyin": "guigang"
+	},
+	{
+		"name": "果洛",
+		"url": "//jobs.zhaopin.com/guoluo/",
+		"code": "883",
+		"pinyin": "guoluo"
+	},
+	{
+		"name": "哈尔滨",
+		"url": "//jobs.zhaopin.com/haerbin/",
+		"code": "622",
+		"pinyin": "haerbin"
+	},
+	{
+		"name": "海口",
+		"url": "//jobs.zhaopin.com/haikou/",
+		"code": "799",
+		"pinyin": "haikou"
+	},
+	{
+		"name": "邯郸",
+		"url": "//jobs.zhaopin.com/handan/",
+		"code": "568",
+		"pinyin": "handan"
+	},
+	{
+		"name": "杭州",
+		"url": "//jobs.zhaopin.com/hangzhou/",
+		"code": "653",
+		"pinyin": "hangzhou",
+		"priority": 1
+	},
+	{
+		"name": "合肥",
+		"url": "//jobs.zhaopin.com/hefei/",
+		"code": "664",
+		"pinyin": "hefei"
+	},
+	{
+		"name": "衡阳",
+		"url": "//jobs.zhaopin.com/hengyang/",
+		"code": "752",
+		"pinyin": "hengyang"
+	},
+	{
+		"name": "衡水",
+		"url": "//jobs.zhaopin.com/hengshui/",
+		"code": "575",
+		"pinyin": "hengshui"
+	},
+	{
+		"name": "呼和浩特",
+		"url": "//jobs.zhaopin.com/huhehaote/",
+		"code": "587",
+		"pinyin": "huhehaote"
+	},
+	{
+		"name": "湖州",
+		"url": "//jobs.zhaopin.com/huzhou/",
+		"code": "657",
+		"pinyin": "huzhou"
+	},
+	{
+		"name": "淮安",
+		"url": "//jobs.zhaopin.com/huaian/",
+		"code": "643",
+		"pinyin": "huaian"
+	},
+	{
+		"name": "菏泽",
+		"url": "//jobs.zhaopin.com/heze/",
+		"code": "718",
+		"pinyin": "heze"
+	},
+	{
+		"name": "淮北",
+		"url": "//jobs.zhaopin.com/huaibei/",
+		"code": "669",
+		"pinyin": "huaibei"
+	},
+	{
+		"name": "汉中",
+		"url": "//jobs.zhaopin.com/hanzhong/",
+		"code": "860",
+		"pinyin": "hanzhong"
+	},
+	{
+		"name": "呼伦贝尔",
+		"url": "//jobs.zhaopin.com/hulunbeier/",
+		"code": "593",
+		"pinyin": "hulunbeier"
+	},
+	{
+		"name": "葫芦岛",
+		"url": "//jobs.zhaopin.com/huludao/",
+		"code": "612",
+		"pinyin": "huludao"
+	},
+	{
+		"name": "惠州",
+		"url": "//jobs.zhaopin.com/huizhou/",
+		"code": "773",
+		"pinyin": "huizhou"
+	},
+	{
+		"name": "珲春",
+		"url": "//jobs.zhaopin.com/hunchun/",
+		"code": "10198",
+		"pinyin": "hunchun"
+	},
+	{
+		"name": "鹤壁",
+		"url": "//jobs.zhaopin.com/hebi/",
+		"code": "724",
+		"pinyin": "hebi"
+	},
+	{
+		"name": "淮南",
+		"url": "//jobs.zhaopin.com/huainan/",
+		"code": "667",
+		"pinyin": "huainan"
+	},
+	{
+		"name": "黄冈",
+		"url": "//jobs.zhaopin.com/huanggang/",
+		"code": "745",
+		"pinyin": "huanggang"
+	},
+	{
+		"name": "怀化",
+		"url": "//jobs.zhaopin.com/huaihua/",
+		"code": "760",
+		"pinyin": "huaihua"
+	},
+	{
+		"name": "黄石",
+		"url": "//jobs.zhaopin.com/huangshi/",
+		"code": "737",
+		"pinyin": "huangshi"
+	},
+	{
+		"name": "黄山",
+		"url": "//jobs.zhaopin.com/huangshan/",
+		"code": "672",
+		"pinyin": "huangshan"
+	},
+	{
+		"name": "河源",
+		"url": "//jobs.zhaopin.com/heyuan/",
+		"code": "776",
+		"pinyin": "heyuan"
+	},
+	{
+		"name": "黑河",
+		"url": "//jobs.zhaopin.com/heihe/",
+		"code": "632",
+		"pinyin": "heihe"
+	},
+	{
+		"name": "哈密",
+		"url": "//jobs.zhaopin.com/hami/",
+		"code": "893",
+		"pinyin": "hami"
+	},
+	{
+		"name": "海北",
+		"url": "//jobs.zhaopin.com/haibei/",
+		"code": "880",
+		"pinyin": "haibei"
+	},
+	{
+		"name": "海城",
+		"url": "//jobs.zhaopin.com/haicheng/",
+		"code": "10070",
+		"pinyin": "haicheng"
+	},
+	{
+		"name": "海东",
+		"url": "//jobs.zhaopin.com/haidong/",
+		"code": "879",
+		"pinyin": "haidong"
+	},
+	{
+		"name": "海南州",
+		"url": "//jobs.zhaopin.com/hainanzhou/",
+		"code": "882",
+		"pinyin": "hainanzhou"
+	},
+	{
+		"name": "海宁",
+		"url": "//jobs.zhaopin.com/haining/",
+		"code": "10133",
+		"pinyin": "haining"
+	},
+	{
+		"name": "海西",
+		"url": "//jobs.zhaopin.com/haixi/",
+		"code": "885",
+		"pinyin": "haixi"
+	},
+	{
+		"name": "海阳",
+		"url": "//jobs.zhaopin.com/haiyang/",
+		"code": "2556",
+		"pinyin": "haiyang"
+	},
+	{
+		"name": "和顺",
+		"url": "//jobs.zhaopin.com/heshun/",
+		"code": "10082",
+		"pinyin": "heshun"
+	},
+	{
+		"name": "和田",
+		"url": "//jobs.zhaopin.com/hetian/",
+		"code": "900",
+		"pinyin": "hetian"
+	},
+	{
+		"name": "河池",
+		"url": "//jobs.zhaopin.com/hechi/",
+		"code": "796",
+		"pinyin": "hechi"
+	},
+	{
+		"name": "贺州",
+		"url": "//jobs.zhaopin.com/hezhou/",
+		"code": "795",
+		"pinyin": "hezhou"
+	},
+	{
+		"name": "鹤岗",
+		"url": "//jobs.zhaopin.com/hegang/",
+		"code": "625",
+		"pinyin": "hegang"
+	},
+	{
+		"name": "鹤山",
+		"url": "//jobs.zhaopin.com/heshan/",
+		"code": "10138",
+		"pinyin": "heshan"
+	},
+	{
+		"name": "红河",
+		"url": "//jobs.zhaopin.com/honghe/",
+		"code": "837",
+		"pinyin": "honghe"
+	},
+	{
+		"name": "黄岛",
+		"url": "//jobs.zhaopin.com/huangdao/",
+		"code": "2157",
+		"pinyin": "huangdao"
+	},
+	{
+		"name": "黄南",
+		"url": "//jobs.zhaopin.com/huangnan/",
+		"code": "881",
+		"pinyin": "huangnan"
+	},
+	{
+		"name": "韩国",
+		"url": "//jobs.zhaopin.com/hanguo/",
+		"code": "506",
+		"pinyin": "hanguo"
+	},
+	{
+		"name": "荷兰",
+		"url": "//jobs.zhaopin.com/helan/",
+		"code": "509",
+		"pinyin": "helan"
+	},
+	{
+		"name": "济南",
+		"url": "//jobs.zhaopin.com/jinan/",
+		"code": "702",
+		"pinyin": "jinan"
+	},
+	{
+		"name": "吉林省",
+		"url": "//jobs.zhaopin.com/jilinsheng/",
+		"code": "536",
+		"pinyin": "jilinsheng"
+	},
+	{
+		"name": "济宁",
+		"url": "//jobs.zhaopin.com/jining/",
+		"code": "709",
+		"pinyin": "jining"
+	},
+	{
+		"name": "嘉兴",
+		"url": "//jobs.zhaopin.com/jiaxing/",
+		"code": "656",
+		"pinyin": "jiaxing"
+	},
+	{
+		"name": "江门",
+		"url": "//jobs.zhaopin.com/jiangmen/",
+		"code": "769",
+		"pinyin": "jiangmen"
+	},
+	{
+		"name": "江阴",
+		"url": "//jobs.zhaopin.com/jiangyin/",
+		"code": "2512",
+		"pinyin": "jiangyin"
+	},
+	{
+		"name": "金华",
+		"url": "//jobs.zhaopin.com/jinhua/",
+		"code": "659",
+		"pinyin": "jinhua"
+	},
+	{
+		"name": "荆州",
+		"url": "//jobs.zhaopin.com/jingzhou/",
+		"code": "744",
+		"pinyin": "jingzhou"
+	},
+	{
+		"name": "九江",
+		"url": "//jobs.zhaopin.com/jiujiang/",
+		"code": "694",
+		"pinyin": "jiujiang"
+	},
+	{
+		"name": "焦作",
+		"url": "//jobs.zhaopin.com/jiaozuo/",
+		"code": "726",
+		"pinyin": "jiaozuo"
+	},
+	{
+		"name": "揭阳",
+		"url": "//jobs.zhaopin.com/jieyang/",
+		"code": "782",
+		"pinyin": "jieyang"
+	},
+	{
+		"name": "佳木斯",
+		"url": "//jobs.zhaopin.com/jiamusi/",
+		"code": "629",
+		"pinyin": "jiamusi"
+	},
+	{
+		"name": "锦州",
+		"url": "//jobs.zhaopin.com/jinzhou/",
+		"code": "605",
+		"pinyin": "jinzhou"
+	},
+	{
+		"name": "晋中",
+		"url": "//jobs.zhaopin.com/jinzhong/",
+		"code": "582",
+		"pinyin": "jinzhong"
+	},
+	{
+		"name": "晋城",
+		"url": "//jobs.zhaopin.com/jincheng/",
+		"code": "580",
+		"pinyin": "jincheng"
+	},
+	{
+		"name": "吉安",
+		"url": "//jobs.zhaopin.com/jian/",
+		"code": "698",
+		"pinyin": "jian"
+	},
+	{
+		"name": "景德镇",
+		"url": "//jobs.zhaopin.com/jingdezhen/",
+		"code": "692",
+		"pinyin": "jingdezhen"
+	},
+	{
+		"name": "济源",
+		"url": "//jobs.zhaopin.com/jiyuan/",
+		"code": "10044",
+		"pinyin": "jiyuan"
+	},
+	{
+		"name": "吉首市",
+		"url": "//jobs.zhaopin.com/jishoushi/",
+		"code": "404001",
+		"pinyin": "jishoushi"
+	},
+	{
+		"name": "鸡西",
+		"url": "//jobs.zhaopin.com/jixi/",
+		"code": "624",
+		"pinyin": "jixi"
+	},
+	{
+		"name": "即墨",
+		"url": "//jobs.zhaopin.com/jimo/",
+		"code": "2161",
+		"pinyin": "jimo"
+	},
+	{
+		"name": "嘉善",
+		"url": "//jobs.zhaopin.com/jiashan/",
+		"code": "10067",
+		"pinyin": "jiashan"
+	},
+	{
+		"name": "嘉峪关",
+		"url": "//jobs.zhaopin.com/jiayuguan/",
+		"code": "865",
+		"pinyin": "jiayuguan"
+	},
+	{
+		"name": "简阳",
+		"url": "//jobs.zhaopin.com/jianyang/",
+		"code": "10201",
+		"pinyin": "jianyang"
+	},
+	{
+		"name": "胶南",
+		"url": "//jobs.zhaopin.com/jiaonan/",
+		"code": "2163",
+		"pinyin": "jiaonan"
+	},
+	{
+		"name": "胶州",
+		"url": "//jobs.zhaopin.com/jiaozhou/",
+		"code": "2160",
+		"pinyin": "jiaozhou"
+	},
+	{
+		"name": "金昌",
+		"url": "//jobs.zhaopin.com/jinchang/",
+		"code": "866",
+		"pinyin": "jinchang"
+	},
+	{
+		"name": "金湖",
+		"url": "//jobs.zhaopin.com/jinhu/",
+		"code": "10175",
+		"pinyin": "jinhu"
+	},
+	{
+		"name": "晋江",
+		"url": "//jobs.zhaopin.com/jinjiang/",
+		"code": "10148",
+		"pinyin": "jinjiang"
+	},
+	{
+		"name": "荆门",
+		"url": "//jobs.zhaopin.com/jingmen/",
+		"code": "742",
+		"pinyin": "jingmen"
+	},
+	{
+		"name": "靖江",
+		"url": "//jobs.zhaopin.com/jingjiang/",
+		"code": "649",
+		"pinyin": "jingjiang"
+	},
+	{
+		"name": "酒泉",
+		"url": "//jobs.zhaopin.com/jiuquan/",
+		"code": "872",
+		"pinyin": "jiuquan"
+	},
+	{
+		"name": "句容",
+		"url": "//jobs.zhaopin.com/jurong/",
+		"code": "10028",
+		"pinyin": "jurong"
+	},
+	{
+		"name": "加拿大",
+		"url": "//jobs.zhaopin.com/jianada/",
+		"code": "488",
+		"pinyin": "jianada"
+	},
+	{
+		"name": "加纳",
+		"url": "//jobs.zhaopin.com/jiana/",
+		"code": "914",
+		"pinyin": "jiana"
+	},
+	{
+		"name": "捷克",
+		"url": "//jobs.zhaopin.com/jieke/",
+		"code": "491",
+		"pinyin": "jieke"
+	},
+	{
+		"name": "柬埔寨",
+		"url": "//jobs.zhaopin.com/jianpuzhai/",
+		"code": "930",
+		"pinyin": "jianpuzhai"
+	},
+	{
+		"name": "开封",
+		"url": "//jobs.zhaopin.com/kaifeng/",
+		"code": "720",
+		"pinyin": "kaifeng"
+	},
+	{
+		"name": "昆明",
+		"url": "//jobs.zhaopin.com/kunming/",
+		"code": "831",
+		"pinyin": "kunming"
+	},
+	{
+		"name": "昆山",
+		"url": "//jobs.zhaopin.com/kunshan/",
+		"code": "640",
+		"pinyin": "kunshan"
+	},
+	{
+		"name": "开平",
+		"url": "//jobs.zhaopin.com/kaiping/",
+		"code": "10118",
+		"pinyin": "kaiping"
+	},
+	{
+		"name": "喀什",
+		"url": "//jobs.zhaopin.com/kashi/",
+		"code": "899",
+		"pinyin": "kashi"
+	},
+	{
+		"name": "开原",
+		"url": "//jobs.zhaopin.com/kaiyuan/",
+		"code": "10144",
+		"pinyin": "kaiyuan"
+	},
+	{
+		"name": "克拉玛依",
+		"url": "//jobs.zhaopin.com/kelamayi/",
+		"code": "891",
+		"pinyin": "kelamayi"
+	},
+	{
+		"name": "克孜勒苏",
+		"url": "//jobs.zhaopin.com/kezilesu/",
+		"code": "898",
+		"pinyin": "kezilesu"
+	},
+	{
+		"name": "奎屯市",
+		"url": "//jobs.zhaopin.com/kuitunshi/",
+		"code": "10164",
+		"pinyin": "kuitunshi"
+	},
+	{
+		"name": "科威特",
+		"url": "//jobs.zhaopin.com/keweite/",
+		"code": "507",
+		"pinyin": "keweite"
+	},
+	{
+		"name": "兰州",
+		"url": "//jobs.zhaopin.com/lanzhou/",
+		"code": "864",
+		"pinyin": "lanzhou"
+	},
+	{
+		"name": "廊坊",
+		"url": "//jobs.zhaopin.com/langfang/",
+		"code": "574",
+		"pinyin": "langfang"
+	},
+	{
+		"name": "连云港",
+		"url": "//jobs.zhaopin.com/lianyungang/",
+		"code": "642",
+		"pinyin": "lianyungang"
+	},
+	{
+		"name": "聊城",
+		"url": "//jobs.zhaopin.com/liaocheng/",
+		"code": "716",
+		"pinyin": "liaocheng"
+	},
+	{
+		"name": "临沂",
+		"url": "//jobs.zhaopin.com/linyi/",
+		"code": "714",
+		"pinyin": "linyi"
+	},
+	{
+		"name": "柳州",
+		"url": "//jobs.zhaopin.com/liuzhou/",
+		"code": "786",
+		"pinyin": "liuzhou"
+	},
+	{
+		"name": "洛阳",
+		"url": "//jobs.zhaopin.com/luoyang/",
+		"code": "721",
+		"pinyin": "luoyang"
+	},
+	{
+		"name": "漯河",
+		"url": "//jobs.zhaopin.com/luohe/",
+		"code": "729",
+		"pinyin": "luohe"
+	},
+	{
+		"name": "拉萨",
+		"url": "//jobs.zhaopin.com/lasa/",
+		"code": "847",
+		"pinyin": "lasa"
+	},
+	{
+		"name": "六盘水",
+		"url": "//jobs.zhaopin.com/liupanshui/",
+		"code": "823",
+		"pinyin": "liupanshui"
+	},
+	{
+		"name": "莱芜",
+		"url": "//jobs.zhaopin.com/laiwu/",
+		"code": "713",
+		"pinyin": "laiwu"
+	},
+	{
+		"name": "乐山",
+		"url": "//jobs.zhaopin.com/leshan/",
+		"code": "810",
+		"pinyin": "leshan"
+	},
+	{
+		"name": "辽阳",
+		"url": "//jobs.zhaopin.com/liaoyang/",
+		"code": "608",
+		"pinyin": "liaoyang"
+	},
+	{
+		"name": "临汾",
+		"url": "//jobs.zhaopin.com/linfen/",
+		"code": "585",
+		"pinyin": "linfen"
+	},
+	{
+		"name": "龙岩",
+		"url": "//jobs.zhaopin.com/longyan/",
+		"code": "689",
+		"pinyin": "longyan"
+	},
+	{
+		"name": "丽水",
+		"url": "//jobs.zhaopin.com/lishui/",
+		"code": "663",
+		"pinyin": "lishui"
+	},
+	{
+		"name": "六安",
+		"url": "//jobs.zhaopin.com/liuan/",
+		"code": "677",
+		"pinyin": "liuan"
+	},
+	{
+		"name": "吕梁",
+		"url": "//jobs.zhaopin.com/lvliang/",
+		"code": "586",
+		"pinyin": "lvliang"
+	},
+	{
+		"name": "辽源",
+		"url": "//jobs.zhaopin.com/liaoyuan/",
+		"code": "616",
+		"pinyin": "liaoyuan"
+	},
+	{
+		"name": "娄底",
+		"url": "//jobs.zhaopin.com/loudi/",
+		"code": "761",
+		"pinyin": "loudi"
+	},
+	{
+		"name": "泸州",
+		"url": "//jobs.zhaopin.com/luzhou/",
+		"code": "804",
+		"pinyin": "luzhou"
+	},
+	{
+		"name": "来宾",
+		"url": "//jobs.zhaopin.com/laibin/",
+		"code": "904",
+		"pinyin": "laibin"
+	},
+	{
+		"name": "莱西",
+		"url": "//jobs.zhaopin.com/laixi/",
+		"code": "2164",
+		"pinyin": "laixi"
+	},
+	{
+		"name": "乐东",
+		"url": "//jobs.zhaopin.com/ledong/",
+		"code": "10196",
+		"pinyin": "ledong"
+	},
+	{
+		"name": "乐清",
+		"url": "//jobs.zhaopin.com/leqing/",
+		"code": "10089",
+		"pinyin": "leqing"
+	},
+	{
+		"name": "丽江",
+		"url": "//jobs.zhaopin.com/lijiang/",
+		"code": "843",
+		"pinyin": "lijiang"
+	},
+	{
+		"name": "溧阳",
+		"url": "//jobs.zhaopin.com/liyang/",
+		"code": "10150",
+		"pinyin": "liyang"
+	},
+	{
+		"name": "凉山",
+		"url": "//jobs.zhaopin.com/liangshan/",
+		"code": "821",
+		"pinyin": "liangshan"
+	},
+	{
+		"name": "林芝",
+		"url": "//jobs.zhaopin.com/linzhi/",
+		"code": "853",
+		"pinyin": "linzhi"
+	},
+	{
+		"name": "临沧",
+		"url": "//jobs.zhaopin.com/lincang/",
+		"code": "846",
+		"pinyin": "lincang"
+	},
+	{
+		"name": "临高",
+		"url": "//jobs.zhaopin.com/lingao/",
+		"code": "10191",
+		"pinyin": "lingao"
+	},
+	{
+		"name": "临夏",
+		"url": "//jobs.zhaopin.com/linxia/",
+		"code": "876",
+		"pinyin": "linxia"
+	},
+	{
+		"name": "陵水",
+		"url": "//jobs.zhaopin.com/lingshui/",
+		"code": "10197",
+		"pinyin": "lingshui"
+	},
+	{
+		"name": "龙川",
+		"url": "//jobs.zhaopin.com/longchuan/",
+		"code": "10120",
+		"pinyin": "longchuan"
+	},
+	{
+		"name": "龙泉",
+		"url": "//jobs.zhaopin.com/longquan/",
+		"code": "10180",
+		"pinyin": "longquan"
+	},
+	{
+		"name": "陇南",
+		"url": "//jobs.zhaopin.com/longnan/",
+		"code": "875",
+		"pinyin": "longnan"
+	},
+	{
+		"name": "马鞍山",
+		"url": "//jobs.zhaopin.com/maanshan/",
+		"code": "668",
+		"pinyin": "maanshan"
+	},
+	{
+		"name": "绵阳",
+		"url": "//jobs.zhaopin.com/mianyang/",
+		"code": "806",
+		"pinyin": "mianyang"
+	},
+	{
+		"name": "牡丹江",
+		"url": "//jobs.zhaopin.com/mudanjiang/",
+		"code": "631",
+		"pinyin": "mudanjiang"
+	},
+	{
+		"name": "梅州",
+		"url": "//jobs.zhaopin.com/meizhou/",
+		"code": "774",
+		"pinyin": "meizhou"
+	},
+	{
+		"name": "茂名",
+		"url": "//jobs.zhaopin.com/maoming/",
+		"code": "771",
+		"pinyin": "maoming"
+	},
+	{
+		"name": "蒙自市",
+		"url": "//jobs.zhaopin.com/mengzishi/",
+		"code": "",
+		"pinyin": "mengzishi"
+	},
+	{
+		"name": "满洲里",
+		"url": "//jobs.zhaopin.com/manzhouli/",
+		"code": "10157",
+		"pinyin": "manzhouli"
+	},
+	{
+		"name": "眉山",
+		"url": "//jobs.zhaopin.com/meishan/",
+		"code": "812",
+		"pinyin": "meishan"
+	},
+	{
+		"name": "马来西亚",
+		"url": "//jobs.zhaopin.com/malaixiya/",
+		"code": "508",
+		"pinyin": "malaixiya"
+	},
+	{
+		"name": "美国",
+		"url": "//jobs.zhaopin.com/meiguo/",
+		"code": "528",
+		"pinyin": "meiguo"
+	},
+	{
+		"name": "南京",
+		"url": "//jobs.zhaopin.com/nanjing/",
+		"code": "635",
+		"pinyin": "nanjing"
+	},
+	{
+		"name": "南昌",
+		"url": "//jobs.zhaopin.com/nanchang/",
+		"code": "691",
+		"pinyin": "nanchang"
+	},
+	{
+		"name": "南充",
+		"url": "//jobs.zhaopin.com/nanchong/",
+		"code": "811",
+		"pinyin": "nanchong"
+	},
+	{
+		"name": "南宁",
+		"url": "//jobs.zhaopin.com/nanning/",
+		"code": "785",
+		"pinyin": "nanning"
+	},
+	{
+		"name": "南阳",
+		"url": "//jobs.zhaopin.com/nanyang/",
+		"code": "731",
+		"pinyin": "nanyang"
+	},
+	{
+		"name": "南通",
+		"url": "//jobs.zhaopin.com/nantong/",
+		"code": "641",
+		"pinyin": "nantong"
+	},
+	{
+		"name": "宁波",
+		"url": "//jobs.zhaopin.com/ningbo/",
+		"code": "654",
+		"pinyin": "ningbo"
+	},
+	{
+		"name": "宁夏",
+		"url": "//jobs.zhaopin.com/ningxia/",
+		"code": "559",
+		"pinyin": "ningxia"
+	},
+	{
+		"name": "南平",
+		"url": "//jobs.zhaopin.com/nanping/",
+		"code": "688",
+		"pinyin": "nanping"
+	},
+	{
+		"name": "宁德",
+		"url": "//jobs.zhaopin.com/ningde/",
+		"code": "690",
+		"pinyin": "ningde"
+	},
+	{
+		"name": "内江",
+		"url": "//jobs.zhaopin.com/neijiang/",
+		"code": "809",
+		"pinyin": "neijiang"
+	},
+	{
+		"name": "那曲",
+		"url": "//jobs.zhaopin.com/naqu/",
+		"code": "851",
+		"pinyin": "naqu"
+	},
+	{
+		"name": "南沙区",
+		"url": "//jobs.zhaopin.com/nanshaqu/",
+		"code": "2054",
+		"pinyin": "nanshaqu"
+	},
+	{
+		"name": "宁海",
+		"url": "//jobs.zhaopin.com/ninghai/",
+		"code": "10134",
+		"pinyin": "ninghai"
+	},
+	{
+		"name": "怒江",
+		"url": "//jobs.zhaopin.com/nujiang/",
+		"code": "844",
+		"pinyin": "nujiang"
+	},
+	{
+		"name": "南非",
+		"url": "//jobs.zhaopin.com/nanfei/",
+		"code": "519",
+		"pinyin": "nanfei"
+	},
+	{
+		"name": "尼日利亚",
+		"url": "//jobs.zhaopin.com/niriliya/",
+		"code": "915",
+		"pinyin": "niriliya"
+	},
+	{
+		"name": "挪威",
+		"url": "//jobs.zhaopin.com/nuowei/",
+		"code": "511",
+		"pinyin": "nuowei"
+	},
+	{
+		"name": "平顶山",
+		"url": "//jobs.zhaopin.com/pingdingshan/",
+		"code": "722",
+		"pinyin": "pingdingshan"
+	},
+	{
+		"name": "莆田",
+		"url": "//jobs.zhaopin.com/putian/",
+		"code": "683",
+		"pinyin": "putian"
+	},
+	{
+		"name": "濮阳",
+		"url": "//jobs.zhaopin.com/puyang/",
+		"code": "727",
+		"pinyin": "puyang"
+	},
+	{
+		"name": "盘锦",
+		"url": "//jobs.zhaopin.com/panjin/",
+		"code": "609",
+		"pinyin": "panjin"
+	},
+	{
+		"name": "普宁",
+		"url": "//jobs.zhaopin.com/puning/",
+		"code": "3404",
+		"pinyin": "puning"
+	},
+	{
+		"name": "萍乡",
+		"url": "//jobs.zhaopin.com/pingxiang/",
+		"code": "693",
+		"pinyin": "pingxiang"
+	},
+	{
+		"name": "攀枝花",
+		"url": "//jobs.zhaopin.com/panzhihua/",
+		"code": "803",
+		"pinyin": "panzhihua"
+	},
+	{
+		"name": "平度",
+		"url": "//jobs.zhaopin.com/pingdu/",
+		"code": "2162",
+		"pinyin": "pingdu"
+	},
+	{
+		"name": "平湖",
+		"url": "//jobs.zhaopin.com/pinghu/",
+		"code": "10052",
+		"pinyin": "pinghu"
+	},
+	{
+		"name": "平凉",
+		"url": "//jobs.zhaopin.com/pingliang/",
+		"code": "871",
+		"pinyin": "pingliang"
+	},
+	{
+		"name": "普洱",
+		"url": "//jobs.zhaopin.com/puer/",
+		"code": "10163",
+		"pinyin": "puer"
+	},
+	{
+		"name": "葡萄牙",
+		"url": "//jobs.zhaopin.com/putaoya/",
+		"code": "515",
+		"pinyin": "putaoya"
+	},
+	{
+		"name": "青岛",
+		"url": "//jobs.zhaopin.com/qingdao/",
+		"code": "703",
+		"pinyin": "qingdao"
+	},
+	{
+		"name": "秦皇岛",
+		"url": "//jobs.zhaopin.com/qinhuangdao/",
+		"code": "567",
+		"pinyin": "qinhuangdao"
+	},
+	{
+		"name": "青海",
+		"url": "//jobs.zhaopin.com/qinghai/",
+		"code": "558",
+		"pinyin": "qinghai"
+	},
+	{
+		"name": "清远",
+		"url": "//jobs.zhaopin.com/qingyuan/",
+		"code": "778",
+		"pinyin": "qingyuan"
+	},
+	{
+		"name": "泉州",
+		"url": "//jobs.zhaopin.com/quanzhou/",
+		"code": "685",
+		"pinyin": "quanzhou"
+	},
+	{
+		"name": "齐齐哈尔",
+		"url": "//jobs.zhaopin.com/qiqihaer/",
+		"code": "623",
+		"pinyin": "qiqihaer"
+	},
+	{
+		"name": "曲靖",
+		"url": "//jobs.zhaopin.com/qujing/",
+		"code": "832",
+		"pinyin": "qujing"
+	},
+	{
+		"name": "衢州",
+		"url": "//jobs.zhaopin.com/quzhou/",
+		"code": "660",
+		"pinyin": "quzhou"
+	},
+	{
+		"name": "黔西南",
+		"url": "//jobs.zhaopin.com/qianxinan/",
+		"code": "827",
+		"pinyin": "qianxinan"
+	},
+	{
+		"name": "七台河",
+		"url": "//jobs.zhaopin.com/qitaihe/",
+		"code": "630",
+		"pinyin": "qitaihe"
+	},
+	{
+		"name": "启东",
+		"url": "//jobs.zhaopin.com/qidong/",
+		"code": "10136",
+		"pinyin": "qidong"
+	},
+	{
+		"name": "潜江",
+		"url": "//jobs.zhaopin.com/qianjiang/",
+		"code": "10169",
+		"pinyin": "qianjiang"
+	},
+	{
+		"name": "黔东南",
+		"url": "//jobs.zhaopin.com/qiandongnan/",
+		"code": "829",
+		"pinyin": "qiandongnan"
+	},
+	{
+		"name": "黔南",
+		"url": "//jobs.zhaopin.com/qiannan/",
+		"code": "830",
+		"pinyin": "qiannan"
+	},
+	{
+		"name": "钦州",
+		"url": "//jobs.zhaopin.com/qinzhou/",
+		"code": "791",
+		"pinyin": "qinzhou"
+	},
+	{
+		"name": "庆阳",
+		"url": "//jobs.zhaopin.com/qingyang/",
+		"code": "873",
+		"pinyin": "qingyang"
+	},
+	{
+		"name": "琼海",
+		"url": "//jobs.zhaopin.com/qionghai/",
+		"code": "10153",
+		"pinyin": "qionghai"
+	},
+	{
+		"name": "琼中",
+		"url": "//jobs.zhaopin.com/qiongzhong/",
+		"code": "10192",
+		"pinyin": "qiongzhong"
+	},
+	{
+		"name": "泉港区",
+		"url": "//jobs.zhaopin.com/quangangqu/",
+		"code": "686",
+		"pinyin": "quangangqu"
+	},
+	{
+		"name": "其他国家",
+		"url": "//jobs.zhaopin.com/qitaguojia/",
+		"code": "512",
+		"pinyin": "qitaguojia"
+	},
+	{
+		"name": "日照",
+		"url": "//jobs.zhaopin.com/rizhao/",
+		"code": "712",
+		"pinyin": "rizhao"
+	},
+	{
+		"name": "日喀则",
+		"url": "//jobs.zhaopin.com/rikaze/",
+		"code": "850",
+		"pinyin": "rikaze"
+	},
+	{
+		"name": "荣成",
+		"url": "//jobs.zhaopin.com/rongcheng/",
+		"code": "912",
+		"pinyin": "rongcheng"
+	},
+	{
+		"name": "如皋",
+		"url": "//jobs.zhaopin.com/rugao/",
+		"code": "10051",
+		"pinyin": "rugao"
+	},
+	{
+		"name": "乳山",
+		"url": "//jobs.zhaopin.com/rushan/",
+		"code": "10060",
+		"pinyin": "rushan"
+	},
+	{
+		"name": "瑞安",
+		"url": "//jobs.zhaopin.com/ruian/",
+		"code": "10128",
+		"pinyin": "ruian"
+	},
+	{
+		"name": "日本",
+		"url": "//jobs.zhaopin.com/riben/",
+		"code": "505",
+		"pinyin": "riben"
+	},
+	{
+		"name": "瑞典",
+		"url": "//jobs.zhaopin.com/ruidian/",
+		"code": "521",
+		"pinyin": "ruidian"
+	},
+	{
+		"name": "瑞士",
+		"url": "//jobs.zhaopin.com/ruishi/",
+		"code": "522",
+		"pinyin": "ruishi"
+	},
+	{
+		"name": "上海",
+		"url": "//jobs.zhaopin.com/shanghai/",
+		"code": "538",
+		"pinyin": "shanghai",
+		"priority": 1
+	},
+	{
+		"name": "深圳",
+		"url": "//jobs.zhaopin.com/shenzhen/",
+		"code": "765",
+		"pinyin": "shenzhen",
+		"priority": 1
+	},
+	{
+		"name": "沈阳",
+		"url": "//jobs.zhaopin.com/shenyang/",
+		"code": "599",
+		"pinyin": "shenyang"
+	},
+	{
+		"name": "石家庄",
+		"url": "//jobs.zhaopin.com/shijiazhuang/",
+		"code": "565",
+		"pinyin": "shijiazhuang"
+	},
+	{
+		"name": "三亚",
+		"url": "//jobs.zhaopin.com/sanya/",
+		"code": "800",
+		"pinyin": "sanya"
+	},
+	{
+		"name": "汕头",
+		"url": "//jobs.zhaopin.com/shantou/",
+		"code": "767",
+		"pinyin": "shantou"
+	},
+	{
+		"name": "商丘",
+		"url": "//jobs.zhaopin.com/shangqiu/",
+		"code": "732",
+		"pinyin": "shangqiu"
+	},
+	{
+		"name": "绍兴",
+		"url": "//jobs.zhaopin.com/shaoxing/",
+		"code": "658",
+		"pinyin": "shaoxing"
+	},
+	{
+		"name": "四平",
+		"url": "//jobs.zhaopin.com/siping/",
+		"code": "615",
+		"pinyin": "siping"
+	},
+	{
+		"name": "苏州",
+		"url": "//jobs.zhaopin.com/suzhou/",
+		"code": "639",
+		"pinyin": "suzhou"
+	},
+	{
+		"name": "宿迁",
+		"url": "//jobs.zhaopin.com/suqian/",
+		"code": "648",
+		"pinyin": "suqian"
+	},
+	{
+		"name": "宿州",
+		"url": "//jobs.zhaopin.com/suzhou/",
+		"code": "675",
+		"pinyin": "suzhou"
+	},
+	{
+		"name": "随州",
+		"url": "//jobs.zhaopin.com/suizhou/",
+		"code": "747",
+		"pinyin": "suizhou"
+	},
+	{
+		"name": "上饶",
+		"url": "//jobs.zhaopin.com/shangrao/",
+		"code": "701",
+		"pinyin": "shangrao"
+	},
+	{
+		"name": "邵阳",
+		"url": "//jobs.zhaopin.com/shaoyang/",
+		"code": "753",
+		"pinyin": "shaoyang"
+	},
+	{
+		"name": "十堰",
+		"url": "//jobs.zhaopin.com/shiyan/",
+		"code": "738",
+		"pinyin": "shiyan"
+	},
+	{
+		"name": "三门峡",
+		"url": "//jobs.zhaopin.com/sanmenxia/",
+		"code": "730",
+		"pinyin": "sanmenxia"
+	},
+	{
+		"name": "商洛",
+		"url": "//jobs.zhaopin.com/shangluo/",
+		"code": "863",
+		"pinyin": "shangluo"
+	},
+	{
+		"name": "松原",
+		"url": "//jobs.zhaopin.com/songyuan/",
+		"code": "619",
+		"pinyin": "songyuan"
+	},
+	{
+		"name": "遂宁",
+		"url": "//jobs.zhaopin.com/suining/",
+		"code": "808",
+		"pinyin": "suining"
+	},
+	{
+		"name": "韶关",
+		"url": "//jobs.zhaopin.com/shaoguan/",
+		"code": "764",
+		"pinyin": "shaoguan"
+	},
+	{
+		"name": "三明",
+		"url": "//jobs.zhaopin.com/sanming/",
+		"code": "684",
+		"pinyin": "sanming"
+	},
+	{
+		"name": "绥化",
+		"url": "//jobs.zhaopin.com/suihua/",
+		"code": "633",
+		"pinyin": "suihua"
+	},
+	{
+		"name": "汕尾",
+		"url": "//jobs.zhaopin.com/shanwei/",
+		"code": "775",
+		"pinyin": "shanwei"
+	},
+	{
+		"name": "三河",
+		"url": "//jobs.zhaopin.com/sanhe/",
+		"code": "10170",
+		"pinyin": "sanhe"
+	},
+	{
+		"name": "三门",
+		"url": "//jobs.zhaopin.com/sanmen/",
+		"code": "10145",
+		"pinyin": "sanmen"
+	},
+	{
+		"name": "山南",
+		"url": "//jobs.zhaopin.com/shannan/",
+		"code": "849",
+		"pinyin": "shannan"
+	},
+	{
+		"name": "上虞",
+		"url": "//jobs.zhaopin.com/shangyu/",
+		"code": "10130",
+		"pinyin": "shangyu"
+	},
+	{
+		"name": "尚志",
+		"url": "//jobs.zhaopin.com/shangzhi/",
+		"code": "10160",
+		"pinyin": "shangzhi"
+	},
+	{
+		"name": "神农架",
+		"url": "//jobs.zhaopin.com/shennongjia/",
+		"code": "10179",
+		"pinyin": "shennongjia"
+	},
+	{
+		"name": "石河子",
+		"url": "//jobs.zhaopin.com/shihezi/",
+		"code": "10061",
+		"pinyin": "shihezi"
+	},
+	{
+		"name": "石嘴山",
+		"url": "//jobs.zhaopin.com/shizuishan/",
+		"code": "887",
+		"pinyin": "shizuishan"
+	},
+	{
+		"name": "双城",
+		"url": "//jobs.zhaopin.com/shuangcheng/",
+		"code": "10159",
+		"pinyin": "shuangcheng"
+	},
+	{
+		"name": "双鸭山",
+		"url": "//jobs.zhaopin.com/shuangyashan/",
+		"code": "626",
+		"pinyin": "shuangyashan"
+	},
+	{
+		"name": "朔州",
+		"url": "//jobs.zhaopin.com/shuozhou/",
+		"code": "581",
+		"pinyin": "shuozhou"
+	},
+	{
+		"name": "思茅",
+		"url": "//jobs.zhaopin.com/simao/",
+		"code": "839",
+		"pinyin": "simao"
+	},
+	{
+		"name": "宿松",
+		"url": "//jobs.zhaopin.com/susong/",
+		"code": "10182",
+		"pinyin": "susong"
+	},
+	{
+		"name": "绥芬河",
+		"url": "//jobs.zhaopin.com/suifenhe/",
+		"code": "10161",
+		"pinyin": "suifenhe"
+	},
+	{
+		"name": "塞内加尔",
+		"url": "//jobs.zhaopin.com/saineijiaer/",
+		"code": "919",
+		"pinyin": "saineijiaer"
+	},
+	{
+		"name": "塞浦路斯",
+		"url": "//jobs.zhaopin.com/saipulusi/",
+		"code": "490",
+		"pinyin": "saipulusi"
+	},
+	{
+		"name": "沙特阿拉伯",
+		"url": "//jobs.zhaopin.com/shatealabo/",
+		"code": "517",
+		"pinyin": "shatealabo"
+	},
+	{
+		"name": "天津",
+		"url": "//jobs.zhaopin.com/tianjin/",
+		"code": "531",
+		"pinyin": "tianjin",
+		"priority": 1
+	},
+	{
+		"name": "台州",
+		"url": "//jobs.zhaopin.com/taizhou/",
+		"code": "662",
+		"pinyin": "taizhou"
+	},
+	{
+		"name": "太原",
+		"url": "//jobs.zhaopin.com/taiyuan/",
+		"code": "576",
+		"pinyin": "taiyuan"
+	},
+	{
+		"name": "泰安",
+		"url": "//jobs.zhaopin.com/taian/",
+		"code": "710",
+		"pinyin": "taian"
+	},
+	{
+		"name": "泰州",
+		"url": "//jobs.zhaopin.com/taizhou/",
+		"code": "647",
+		"pinyin": "taizhou"
+	},
+	{
+		"name": "唐山",
+		"url": "//jobs.zhaopin.com/tangshan/",
+		"code": "566",
+		"pinyin": "tangshan"
+	},
+	{
+		"name": "铁岭",
+		"url": "//jobs.zhaopin.com/tieling/",
+		"code": "610",
+		"pinyin": "tieling"
+	},
+	{
+		"name": "铜川",
+		"url": "//jobs.zhaopin.com/tongchuan/",
+		"code": "855",
+		"pinyin": "tongchuan"
+	},
+	{
+		"name": "通辽",
+		"url": "//jobs.zhaopin.com/tongliao/",
+		"code": "591",
+		"pinyin": "tongliao"
+	},
+	{
+		"name": "通化",
+		"url": "//jobs.zhaopin.com/tonghua/",
+		"code": "617",
+		"pinyin": "tonghua"
+	},
+	{
+		"name": "铜陵",
+		"url": "//jobs.zhaopin.com/tongling/",
+		"code": "670",
+		"pinyin": "tongling"
+	},
+	{
+		"name": "天水",
+		"url": "//jobs.zhaopin.com/tianshui/",
+		"code": "868",
+		"pinyin": "tianshui"
+	},
+	{
+		"name": "铜仁",
+		"url": "//jobs.zhaopin.com/tongren/",
+		"code": "826",
+		"pinyin": "tongren"
+	},
+	{
+		"name": "塔城",
+		"url": "//jobs.zhaopin.com/tacheng/",
+		"code": "902",
+		"pinyin": "tacheng"
+	},
+	{
+		"name": "台山",
+		"url": "//jobs.zhaopin.com/taishan/",
+		"code": "10112",
+		"pinyin": "taishan"
+	},
+	{
+		"name": "太仓市",
+		"url": "//jobs.zhaopin.com/taicangshi/",
+		"code": "911",
+		"pinyin": "taicangshi"
+	},
+	{
+		"name": "泰兴",
+		"url": "//jobs.zhaopin.com/taixing/",
+		"code": "10149",
+		"pinyin": "taixing"
+	},
+	{
+		"name": "天门",
+		"url": "//jobs.zhaopin.com/tianmen/",
+		"code": "10140",
+		"pinyin": "tianmen"
+	},
+	{
+		"name": "通州",
+		"url": "//jobs.zhaopin.com/tongzhou/",
+		"code": "10155",
+		"pinyin": "tongzhou"
+	},
+	{
+		"name": "桐乡",
+		"url": "//jobs.zhaopin.com/tongxiang/",
+		"code": "10127",
+		"pinyin": "tongxiang"
+	},
+	{
+		"name": "图木舒克",
+		"url": "//jobs.zhaopin.com/tumushuke/",
+		"code": "10177",
+		"pinyin": "tumushuke"
+	},
+	{
+		"name": "吐鲁番",
+		"url": "//jobs.zhaopin.com/tulufan/",
+		"code": "892",
+		"pinyin": "tulufan"
+	},
+	{
+		"name": "屯昌",
+		"url": "//jobs.zhaopin.com/tunchang/",
+		"code": "10189",
+		"pinyin": "tunchang"
+	},
+	{
+		"name": "台湾省",
+		"url": "//jobs.zhaopin.com/taiwansheng/",
+		"code": "563",
+		"pinyin": "taiwansheng"
+	},
+	{
+		"name": "泰国",
+		"url": "//jobs.zhaopin.com/taiguo/",
+		"code": "523",
+		"pinyin": "taiguo"
+	},
+	{
+		"name": "坦桑尼亚",
+		"url": "//jobs.zhaopin.com/tansangniya/",
+		"code": "916",
+		"pinyin": "tansangniya"
+	},
+	{
+		"name": "土耳其",
+		"url": "//jobs.zhaopin.com/tuerqi/",
+		"code": "524",
+		"pinyin": "tuerqi"
+	},
+	{
+		"name": "武汉",
+		"url": "//jobs.zhaopin.com/wuhan/",
+		"code": "736",
+		"pinyin": "wuhan"
+	},
+	{
+		"name": "威海",
+		"url": "//jobs.zhaopin.com/weihai/",
+		"code": "711",
+		"pinyin": "weihai"
+	},
+	{
+		"name": "潍坊",
+		"url": "//jobs.zhaopin.com/weifang/",
+		"code": "708",
+		"pinyin": "weifang"
+	},
+	{
+		"name": "温州",
+		"url": "//jobs.zhaopin.com/wenzhou/",
+		"code": "655",
+		"pinyin": "wenzhou"
+	},
+	{
+		"name": "乌鲁木齐",
+		"url": "//jobs.zhaopin.com/wulumuqi/",
+		"code": "890",
+		"pinyin": "wulumuqi"
+	},
+	{
+		"name": "无锡",
+		"url": "//jobs.zhaopin.com/wuxi/",
+		"code": "636",
+		"pinyin": "wuxi"
+	},
+	{
+		"name": "芜湖",
+		"url": "//jobs.zhaopin.com/wuhu/",
+		"code": "665",
+		"pinyin": "wuhu"
+	},
+	{
+		"name": "渭南",
+		"url": "//jobs.zhaopin.com/weinan/",
+		"code": "858",
+		"pinyin": "weinan"
+	},
+	{
+		"name": "万宁",
+		"url": "//jobs.zhaopin.com/wanning/",
+		"code": "10186",
+		"pinyin": "wanning"
+	},
+	{
+		"name": "温岭",
+		"url": "//jobs.zhaopin.com/wenling/",
+		"code": "10129",
+		"pinyin": "wenling"
+	},
+	{
+		"name": "文昌",
+		"url": "//jobs.zhaopin.com/wenchang/",
+		"code": "10185",
+		"pinyin": "wenchang"
+	},
+	{
+		"name": "文山",
+		"url": "//jobs.zhaopin.com/wenshan/",
+		"code": "838",
+		"pinyin": "wenshan"
+	},
+	{
+		"name": "乌海",
+		"url": "//jobs.zhaopin.com/wuhai/",
+		"code": "589",
+		"pinyin": "wuhai"
+	},
+	{
+		"name": "乌兰察布",
+		"url": "//jobs.zhaopin.com/wulanchabu/",
+		"code": "596",
+		"pinyin": "wulanchabu"
+	},
+	{
+		"name": "乌审旗",
+		"url": "//jobs.zhaopin.com/wushenqi/",
+		"code": "10031",
+		"pinyin": "wushenqi"
+	},
+	{
+		"name": "乌苏",
+		"url": "//jobs.zhaopin.com/wusu/",
+		"code": "10166",
+		"pinyin": "wusu"
+	},
+	{
+		"name": "吴忠",
+		"url": "//jobs.zhaopin.com/wuzhong/",
+		"code": "888",
+		"pinyin": "wuzhong"
+	},
+	{
+		"name": "梧州",
+		"url": "//jobs.zhaopin.com/wuzhou/",
+		"code": "788",
+		"pinyin": "wuzhou"
+	},
+	{
+		"name": "五家渠",
+		"url": "//jobs.zhaopin.com/wujiaqu/",
+		"code": "10178",
+		"pinyin": "wujiaqu"
+	},
+	{
+		"name": "五指山",
+		"url": "//jobs.zhaopin.com/wuzhishan/",
+		"code": "10184",
+		"pinyin": "wuzhishan"
+	},
+	{
+		"name": "武威",
+		"url": "//jobs.zhaopin.com/wuwei/",
+		"code": "869",
+		"pinyin": "wuwei"
+	},
+	{
+		"name": "武穴",
+		"url": "//jobs.zhaopin.com/wuxue/",
+		"code": "10139",
+		"pinyin": "wuxue"
+	},
+	{
+		"name": "乌干达",
+		"url": "//jobs.zhaopin.com/wuganda/",
+		"code": "917",
+		"pinyin": "wuganda"
+	},
+	{
+		"name": "乌克兰",
+		"url": "//jobs.zhaopin.com/wukelan/",
+		"code": "525",
+		"pinyin": "wukelan"
+	},
+	{
+		"name": "西安",
+		"url": "//jobs.zhaopin.com/xian/",
+		"code": "854",
+		"pinyin": "xian"
+	},
+	{
+		"name": "西藏",
+		"url": "//jobs.zhaopin.com/xicang/",
+		"code": "555",
+		"pinyin": "xicang"
+	},
+	{
+		"name": "厦门",
+		"url": "//jobs.zhaopin.com/shamen/",
+		"code": "682",
+		"pinyin": "shamen"
+	},
+	{
+		"name": "咸阳",
+		"url": "//jobs.zhaopin.com/xianyang/",
+		"code": "857",
+		"pinyin": "xianyang"
+	},
+	{
+		"name": "襄阳",
+		"url": "//jobs.zhaopin.com/xiangyang/",
+		"code": "740",
+		"pinyin": "xiangyang"
+	},
+	{
+		"name": "新乡",
+		"url": "//jobs.zhaopin.com/xinxiang/",
+		"code": "725",
+		"pinyin": "xinxiang"
+	},
+	{
+		"name": "徐州",
+		"url": "//jobs.zhaopin.com/xuzhou/",
+		"code": "637",
+		"pinyin": "xuzhou"
+	},
+	{
+		"name": "许昌",
+		"url": "//jobs.zhaopin.com/xuchang/",
+		"code": "728",
+		"pinyin": "xuchang"
+	},
+	{
+		"name": "信阳",
+		"url": "//jobs.zhaopin.com/xinyang/",
+		"code": "733",
+		"pinyin": "xinyang"
+	},
+	{
+		"name": "邢台",
+		"url": "//jobs.zhaopin.com/xingtai/",
+		"code": "569",
+		"pinyin": "xingtai"
+	},
+	{
+		"name": "新疆",
+		"url": "//jobs.zhaopin.com/xinjiang/",
+		"code": "560",
+		"pinyin": "xinjiang"
+	},
+	{
+		"name": "新余",
+		"url": "//jobs.zhaopin.com/xinyu/",
+		"code": "695",
+		"pinyin": "xinyu"
+	},
+	{
+		"name": "孝感",
+		"url": "//jobs.zhaopin.com/xiaogan/",
+		"code": "743",
+		"pinyin": "xiaogan"
+	},
+	{
+		"name": "宣城",
+		"url": "//jobs.zhaopin.com/xuancheng/",
+		"code": "680",
+		"pinyin": "xuancheng"
+	},
+	{
+		"name": "咸宁",
+		"url": "//jobs.zhaopin.com/xianning/",
+		"code": "746",
+		"pinyin": "xianning"
+	},
+	{
+		"name": "西宁",
+		"url": "//jobs.zhaopin.com/xining/",
+		"code": "878",
+		"pinyin": "xining"
+	},
+	{
+		"name": "西昌",
+		"url": "//jobs.zhaopin.com/xichang/",
+		"code": "10104",
+		"pinyin": "xichang"
+	},
+	{
+		"name": "西平",
+		"url": "//jobs.zhaopin.com/xiping/",
+		"code": "10059",
+		"pinyin": "xiping"
+	},
+	{
+		"name": "西双版纳",
+		"url": "//jobs.zhaopin.com/xishuangbanna/",
+		"code": "840",
+		"pinyin": "xishuangbanna"
+	},
+	{
+		"name": "锡林郭勒盟",
+		"url": "//jobs.zhaopin.com/xilinguolemeng/",
+		"code": "595",
+		"pinyin": "xilinguolemeng"
+	},
+	{
+		"name": "仙桃",
+		"url": "//jobs.zhaopin.com/xiantao/",
+		"code": "10168",
+		"pinyin": "xiantao"
+	},
+	{
+		"name": "香河",
+		"url": "//jobs.zhaopin.com/xianghe/",
+		"code": "10167",
+		"pinyin": "xianghe"
+	},
+	{
+		"name": "湘潭",
+		"url": "//jobs.zhaopin.com/xiangtan/",
+		"code": "751",
+		"pinyin": "xiangtan"
+	},
+	{
+		"name": "湘西",
+		"url": "//jobs.zhaopin.com/xiangxi/",
+		"code": "762",
+		"pinyin": "xiangxi"
+	},
+	{
+		"name": "象山",
+		"url": "//jobs.zhaopin.com/xiangshan/",
+		"code": "10154",
+		"pinyin": "xiangshan"
+	},
+	{
+		"name": "忻州",
+		"url": "//jobs.zhaopin.com/xinzhou/",
+		"code": "584",
+		"pinyin": "xinzhou"
+	},
+	{
+		"name": "兴安盟",
+		"url": "//jobs.zhaopin.com/xinganmeng/",
+		"code": "594",
+		"pinyin": "xinganmeng"
+	},
+	{
+		"name": "兴城",
+		"url": "//jobs.zhaopin.com/xingcheng/",
+		"code": "10023",
+		"pinyin": "xingcheng"
+	},
+	{
+		"name": "兴平",
+		"url": "//jobs.zhaopin.com/xingping/",
+		"code": "10058",
+		"pinyin": "xingping"
+	},
+	{
+		"name": "盱眙",
+		"url": "//jobs.zhaopin.com/xuyi/",
+		"code": "10152",
+		"pinyin": "xuyi"
+	},
+	{
+		"name": "西咸新区",
+		"url": "//jobs.zhaopin.com/xixianxinqu/",
+		"code": "933",
+		"pinyin": "xixianxinqu"
+	},
+	{
+		"name": "香港",
+		"url": "//jobs.zhaopin.com/xianggang/",
+		"code": "561",
+		"pinyin": "xianggang"
+	},
+	{
+		"name": "西班牙",
+		"url": "//jobs.zhaopin.com/xibanya/",
+		"code": "520",
+		"pinyin": "xibanya"
+	},
+	{
+		"name": "希腊",
+		"url": "//jobs.zhaopin.com/xila/",
+		"code": "497",
+		"pinyin": "xila"
+	},
+	{
+		"name": "新加坡",
+		"url": "//jobs.zhaopin.com/xinjiapo/",
+		"code": "518",
+		"pinyin": "xinjiapo"
+	},
+	{
+		"name": "新西兰",
+		"url": "//jobs.zhaopin.com/xinxilan/",
+		"code": "510",
+		"pinyin": "xinxilan"
+	},
+	{
+		"name": "匈牙利",
+		"url": "//jobs.zhaopin.com/xiongyali/",
+		"code": "498",
+		"pinyin": "xiongyali"
+	},
+	{
+		"name": "烟台",
+		"url": "//jobs.zhaopin.com/yantai/",
+		"code": "707",
+		"pinyin": "yantai"
+	},
+	{
+		"name": "盐城",
+		"url": "//jobs.zhaopin.com/yancheng/",
+		"code": "644",
+		"pinyin": "yancheng"
+	},
+	{
+		"name": "扬州",
+		"url": "//jobs.zhaopin.com/yangzhou/",
+		"code": "645",
+		"pinyin": "yangzhou"
+	},
+	{
+		"name": "宜昌",
+		"url": "//jobs.zhaopin.com/yichang/",
+		"code": "739",
+		"pinyin": "yichang"
+	},
+	{
+		"name": "义乌",
+		"url": "//jobs.zhaopin.com/yiwu/",
+		"code": "3376",
+		"pinyin": "yiwu"
+	},
+	{
+		"name": "营口",
+		"url": "//jobs.zhaopin.com/yingkou/",
+		"code": "606",
+		"pinyin": "yingkou"
+	},
+	{
+		"name": "榆林",
+		"url": "//jobs.zhaopin.com/yulin/",
+		"code": "861",
+		"pinyin": "yulin"
+	},
+	{
+		"name": "玉林",
+		"url": "//jobs.zhaopin.com/yulin/",
+		"code": "793",
+		"pinyin": "yulin"
+	},
+	{
+		"name": "运城",
+		"url": "//jobs.zhaopin.com/yuncheng/",
+		"code": "583",
+		"pinyin": "yuncheng"
+	},
+	{
+		"name": "宜兴",
+		"url": "//jobs.zhaopin.com/yixing/",
+		"code": "2513",
+		"pinyin": "yixing"
+	},
+	{
+		"name": "岳阳",
+		"url": "//jobs.zhaopin.com/yueyang/",
+		"code": "754",
+		"pinyin": "yueyang"
+	},
+	{
+		"name": "宜宾",
+		"url": "//jobs.zhaopin.com/yibin/",
+		"code": "813",
+		"pinyin": "yibin"
+	},
+	{
+		"name": "延安",
+		"url": "//jobs.zhaopin.com/yanan/",
+		"code": "859",
+		"pinyin": "yanan"
+	},
+	{
+		"name": "延边",
+		"url": "//jobs.zhaopin.com/yanbian/",
+		"code": "621",
+		"pinyin": "yanbian"
+	},
+	{
+		"name": "玉溪",
+		"url": "//jobs.zhaopin.com/yuxi/",
+		"code": "833",
+		"pinyin": "yuxi"
+	},
+	{
+		"name": "阳江",
+		"url": "//jobs.zhaopin.com/yangjiang/",
+		"code": "777",
+		"pinyin": "yangjiang"
+	},
+	{
+		"name": "益阳",
+		"url": "//jobs.zhaopin.com/yiyang/",
+		"code": "757",
+		"pinyin": "yiyang"
+	},
+	{
+		"name": "宜春",
+		"url": "//jobs.zhaopin.com/yichun/",
+		"code": "699",
+		"pinyin": "yichun"
+	},
+	{
+		"name": "银川",
+		"url": "//jobs.zhaopin.com/yinchuan/",
+		"code": "886",
+		"pinyin": "yinchuan"
+	},
+	{
+		"name": "阳泉",
+		"url": "//jobs.zhaopin.com/yangquan/",
+		"code": "578",
+		"pinyin": "yangquan"
+	},
+	{
+		"name": "永州",
+		"url": "//jobs.zhaopin.com/yongzhou/",
+		"code": "759",
+		"pinyin": "yongzhou"
+	},
+	{
+		"name": "云浮",
+		"url": "//jobs.zhaopin.com/yunfu/",
+		"code": "783",
+		"pinyin": "yunfu"
+	},
+	{
+		"name": "鹰潭",
+		"url": "//jobs.zhaopin.com/yingtan/",
+		"code": "696",
+		"pinyin": "yingtan"
+	},
+	{
+		"name": "雅安",
+		"url": "//jobs.zhaopin.com/yaan/",
+		"code": "816",
+		"pinyin": "yaan"
+	},
+	{
+		"name": "兖州",
+		"url": "//jobs.zhaopin.com/yanzhou/",
+		"code": "10116",
+		"pinyin": "yanzhou"
+	},
+	{
+		"name": "燕郊开发区",
+		"url": "//jobs.zhaopin.com/yanjiaokaifaqu/",
+		"code": "10050",
+		"pinyin": "yanjiaokaifaqu"
+	},
+	{
+		"name": "扬中",
+		"url": "//jobs.zhaopin.com/yangzhong/",
+		"code": "10124",
+		"pinyin": "yangzhong"
+	},
+	{
+		"name": "杨凌",
+		"url": "//jobs.zhaopin.com/yangling/",
+		"code": "10470",
+		"pinyin": "yangling"
+	},
+	{
+		"name": "洋浦市/洋浦经济开发区",
+		"url": "//jobs.zhaopin.com/yangpushi/yangpujingjikaifaqu/",
+		"code": "907",
+		"pinyin": "yangpushi/yangpujingjikaifaqu"
+	},
+	{
+		"name": "伊春",
+		"url": "//jobs.zhaopin.com/yichun/",
+		"code": "628",
+		"pinyin": "yichun"
+	},
+	{
+		"name": "伊犁",
+		"url": "//jobs.zhaopin.com/yili/",
+		"code": "901",
+		"pinyin": "yili"
+	},
+	{
+		"name": "宜城",
+		"url": "//jobs.zhaopin.com/yicheng/",
+		"code": "10171",
+		"pinyin": "yicheng"
+	},
+	{
+		"name": "永济市",
+		"url": "//jobs.zhaopin.com/yongjishi/",
+		"code": "910",
+		"pinyin": "yongjishi"
+	},
+	{
+		"name": "永嘉",
+		"url": "//jobs.zhaopin.com/yongjia/",
+		"code": "10091",
+		"pinyin": "yongjia"
+	},
+	{
+		"name": "永康",
+		"url": "//jobs.zhaopin.com/yongkang/",
+		"code": "10055",
+		"pinyin": "yongkang"
+	},
+	{
+		"name": "余姚",
+		"url": "//jobs.zhaopin.com/yuyao/",
+		"code": "10085",
+		"pinyin": "yuyao"
+	},
+	{
+		"name": "玉环县",
+		"url": "//jobs.zhaopin.com/yuhuanxian/",
+		"code": "909",
+		"pinyin": "yuhuanxian"
+	},
+	{
+		"name": "玉树",
+		"url": "//jobs.zhaopin.com/yushu/",
+		"code": "884",
+		"pinyin": "yushu"
+	},
+	{
+		"name": "以色列",
+		"url": "//jobs.zhaopin.com/yiselie/",
+		"code": "503",
+		"pinyin": "yiselie"
+	},
+	{
+		"name": "意大利",
+		"url": "//jobs.zhaopin.com/yidali/",
+		"code": "504",
+		"pinyin": "yidali"
+	},
+	{
+		"name": "印度",
+		"url": "//jobs.zhaopin.com/yindu/",
+		"code": "500",
+		"pinyin": "yindu"
+	},
+	{
+		"name": "印度尼西亚",
+		"url": "//jobs.zhaopin.com/yindunixiya/",
+		"code": "501",
+		"pinyin": "yindunixiya"
+	},
+	{
+		"name": "英国",
+		"url": "//jobs.zhaopin.com/yingguo/",
+		"code": "527",
+		"pinyin": "yingguo"
+	},
+	{
+		"name": "越南",
+		"url": "//jobs.zhaopin.com/yuenan/",
+		"code": "529",
+		"pinyin": "yuenan"
+	},
+	{
+		"name": "郑州",
+		"url": "//jobs.zhaopin.com/zhengzhou/",
+		"code": "719",
+		"pinyin": "zhengzhou"
+	},
+	{
+		"name": "枣庄",
+		"url": "//jobs.zhaopin.com/zaozhuang/",
+		"code": "705",
+		"pinyin": "zaozhuang"
+	},
+	{
+		"name": "湛江",
+		"url": "//jobs.zhaopin.com/zhanjiang/",
+		"code": "770",
+		"pinyin": "zhanjiang"
+	},
+	{
+		"name": "张家港",
+		"url": "//jobs.zhaopin.com/zhangjiagang/",
+		"code": "652",
+		"pinyin": "zhangjiagang"
+	},
+	{
+		"name": "张家口",
+		"url": "//jobs.zhaopin.com/zhangjiakou/",
+		"code": "571",
+		"pinyin": "zhangjiakou"
+	},
+	{
+		"name": "漳州",
+		"url": "//jobs.zhaopin.com/zhangzhou/",
+		"code": "687",
+		"pinyin": "zhangzhou"
+	},
+	{
+		"name": "肇庆",
+		"url": "//jobs.zhaopin.com/zhaoqing/",
+		"code": "772",
+		"pinyin": "zhaoqing"
+	},
+	{
+		"name": "镇江",
+		"url": "//jobs.zhaopin.com/zhenjiang/",
+		"code": "646",
+		"pinyin": "zhenjiang"
+	},
+	{
+		"name": "中山",
+		"url": "//jobs.zhaopin.com/zhongshan/",
+		"code": "780",
+		"pinyin": "zhongshan"
+	},
+	{
+		"name": "珠海",
+		"url": "//jobs.zhaopin.com/zhuhai/",
+		"code": "766",
+		"pinyin": "zhuhai"
+	},
+	{
+		"name": "株洲",
+		"url": "//jobs.zhaopin.com/zhuzhou/",
+		"code": "750",
+		"pinyin": "zhuzhou"
+	},
+	{
+		"name": "淄博",
+		"url": "//jobs.zhaopin.com/zibo/",
+		"code": "704",
+		"pinyin": "zibo"
+	},
+	{
+		"name": "遵义",
+		"url": "//jobs.zhaopin.com/zunyi/",
+		"code": "824",
+		"pinyin": "zunyi"
+	},
+	{
+		"name": "驻马店",
+		"url": "//jobs.zhaopin.com/zhumadian/",
+		"code": "735",
+		"pinyin": "zhumadian"
+	},
+	{
+		"name": "周口",
+		"url": "//jobs.zhaopin.com/zhoukou/",
+		"code": "734",
+		"pinyin": "zhoukou"
+	},
+	{
+		"name": "自贡",
+		"url": "//jobs.zhaopin.com/zigong/",
+		"code": "802",
+		"pinyin": "zigong"
+	},
+	{
+		"name": "舟山",
+		"url": "//jobs.zhaopin.com/zhoushan/",
+		"code": "661",
+		"pinyin": "zhoushan"
+	},
+	{
+		"name": "张掖",
+		"url": "//jobs.zhaopin.com/zhangye/",
+		"code": "870",
+		"pinyin": "zhangye"
+	},
+	{
+		"name": "张家界",
+		"url": "//jobs.zhaopin.com/zhangjiajie/",
+		"code": "756",
+		"pinyin": "zhangjiajie"
+	},
+	{
+		"name": "昭通",
+		"url": "//jobs.zhaopin.com/zhaotong/",
+		"code": "835",
+		"pinyin": "zhaotong"
+	},
+	{
+		"name": "肇东市",
+		"url": "//jobs.zhaopin.com/zhaodongshi/",
+		"code": "10510",
+		"pinyin": "zhaodongshi"
+	},
+	{
+		"name": "中卫",
+		"url": "//jobs.zhaopin.com/zhongwei/",
+		"code": "906",
+		"pinyin": "zhongwei"
+	},
+	{
+		"name": "诸暨",
+		"url": "//jobs.zhaopin.com/zhuji/",
+		"code": "10131",
+		"pinyin": "zhuji"
+	},
+	{
+		"name": "资阳",
+		"url": "//jobs.zhaopin.com/ziyang/",
+		"code": "818",
+		"pinyin": "ziyang"
+	},
+	{
+		"name": "遵化",
+		"url": "//jobs.zhaopin.com/zunhua/",
+		"code": "10143",
+		"pinyin": "zunhua"
+	}
+]
