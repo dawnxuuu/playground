@@ -28,12 +28,12 @@ function creatPromise(params) {
 //     console.log('未知失败', error)
 //   })
 
-Promise.resolve(42)
-  .then((value) => {
-    console.log(`resolve后then中第一个函数${value}`)
-  }, (value) => {
-    console.log(`resolve后then中第二个函数${value}`)
-  })
+// Promise.resolve(42)
+//   .then((value) => {
+//     console.log(`resolve后then中第一个函数${value}`)
+//   }, (value) => {
+//     console.log(`resolve后then中第二个函数${value}`)
+//   })
 
 Promise.reject(Error('失败'))
   .then((value) => {
