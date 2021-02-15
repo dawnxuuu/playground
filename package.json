@@ -13,7 +13,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@zpfe/utils-base-data": "^1.0.0-beta.5",
     "axios": "^0.18.0",
     "commander": "^2.18.0",
     "dsbridge": "^3.1.4",
